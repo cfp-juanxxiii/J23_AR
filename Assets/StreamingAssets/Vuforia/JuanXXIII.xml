@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="j23_signos" size="1.000000 0.519036" />
+    <ImageTarget name="cfpj23" size="1.000000 2.031496" />
+    <ImageTarget name="daw" size="1.000000 1.439353" />
+    <ImageTarget name="dam" size="1.000000 1.403183" />
+    <ImageTarget name="logoj23" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
